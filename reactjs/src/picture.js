@@ -14,6 +14,7 @@ function Picture() {
 
     // 远程后端服务调用 使用模型：FalTextToImage 生成图片
     async function falTextToImage(prompt) {
+        // TODO 隐藏
         fal.config({
             credentials: "359280f2-5c3a-4fb0-a4f2-59e0fa023af9:34ac5a47d34ffd701370a37331c1a4b7"
         });

@@ -2,6 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 主要文件
+主结构文件名大写，否则小写
+ai-voyager/reactjs/src/App.js  
+ai-voyager/reactjs/src/Head.js Timeline 页首时间轴  
+ai-voyager/reactjs/src/Body.js 主体  
+ai-voyager/reactjs/src/picture.js Picture 生成图片  
+ai-voyager/reactjs/src/Foot.js Statictics 统计
+
+## Quick start Project
+### open your terminal/shell/cmd
+```
+cd ai-voyager/reactjs/
+npm start
+```
+### or just run
+sh start.sh
+### view on
+https://3000-01j5mm35x6kb3k8qcj4tnsbv40.cloudspaces.litng.ai/
+
+
 ## ref
 frontend https://react.dev/  
 backend https://www.baeldung.com/spring-boot-react-crud
